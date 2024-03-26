@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAAA,KACI,eACA,YACA,YACA,sBACA","file":"../main.css","sourcesContent":["body{\r\n    font-size: 20px;\r\n    height: 100%;\r\n    width: 300px;\r\n    background-color: blue;\r\n    border-radius: 30px;\r\n}"]}

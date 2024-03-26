@@ -1,0 +1,1 @@
+const somar=55;console.log(somar);
